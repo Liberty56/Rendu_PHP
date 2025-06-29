@@ -67,11 +67,11 @@ Ce projet est une application web développée en PHP & MySQL permettant aux uti
 - bob@mail.com
 - password
 ### Compte Administrateur
-- **Email** : admin@example.com
+- **Email** : admin@mail.com
 - **Mot de passe** : password
 
 ### Compte Utilisateur
-- **Email** : user@example.com
+- **Email** : alice@mail.com
 - **Mot de passe** : password
 
 ## Structure du Projet
