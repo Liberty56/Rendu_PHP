@@ -61,11 +61,6 @@ Ce projet est une application web développée en PHP & MySQL permettant aux uti
    define('DB_PASS', 'password');
    define('DB_PORT', 3306);
    ```
-
-4. Démarrer le serveur PHP et tester l'application :
-   ```sh
-   php -S localhost:8000
-   ```
    Puis accéder à l'application via `http://localhost:8000`
 
 ## Comptes de Test
